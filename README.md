@@ -91,5 +91,6 @@ Dengan memahami karakteristik pelanggan yang churn, perusahaan dapat menyusun la
 
 ## 🧑‍💻 Author
 
-**Rayen** – Aspiring Data Analyst  
-GitHub: [github.com/ryansutan](https://github.com/ryansutan)
+**Ryan Sutan Wijaya**  
+📧 [ryanw3312@gmail.com](mailto:ryanw3312@gmail.com)  
+🌐 [linkedin.com/in/ryansutan](https://linkedin.com/in/ryansutan)
